@@ -70,10 +70,6 @@ console.log(obj2.address); // 'Pax Romana, Roma'
 ## Реализация методов курсоров
 - Скоро будут опубликованы сигнатуры методов API
 
-## Простые асинхронные абстракции
-- Data collector
-- Queue
-
 ## Инструмент для проведения семинаров с Live Coding
 Репозиторий https://github.com/HowProgrammingWorks/LiveCoding
 - Кеширование всех исходников на сервере
@@ -107,9 +103,17 @@ console.log(obj2.address); // 'Pax Romana, Roma'
 
 ## Metasync
 Репозиторий https://github.com/metarhia/metasync
+- Простые асинхронные абстракции
+  - Data collector
+  - Queue
 
 ## Do
 Репозиторий https://github.com/metarhia/do
 
 ## Logger
 Репозиторий https://github.com/metarhia/metalog
+
+## Шаблоны
+Репозиторий https://github.com/metarhia/tickplate
+
+## Sandboxing
