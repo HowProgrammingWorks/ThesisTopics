@@ -101,3 +101,15 @@ console.log(obj2.address); // 'Pax Romana, Roma'
   - Google Drive
 - Песочница https://github.com/metarhia/sandboxed-fs
   - Дорабатываем по [issues](https://github.com/metarhia/sandboxed-fs/issues)
+
+## Фреймворк для тестирования
+Репозиторий https://github.com/metarhia/maojian
+
+## Metasync
+Репозиторий https://github.com/metarhia/metasync
+
+## Do
+Репозиторий https://github.com/metarhia/do
+
+## Logger
+Репозиторий https://github.com/metarhia/metalog
