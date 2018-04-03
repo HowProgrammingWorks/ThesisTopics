@@ -112,8 +112,14 @@ console.log(obj2.address); // 'Pax Romana, Roma'
 
 ## Logger
 Репозиторий https://github.com/metarhia/metalog
+- Задание: https://github.com/metarhia/metalog/issues/17
 
 ## Шаблоны
 Репозиторий https://github.com/metarhia/tickplate
 
 ## Sandboxing
+
+## Рефактор Readable/WritableStream в Node.js
+Для буферизации записи в файл вместо односвязного списка и перекладывания из
+него в массив можно выбрать только одну структуру данных, или писать сразу в
+заранее преаллокированный большой буффер, а не склеивать массив буферов.
