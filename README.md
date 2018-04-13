@@ -82,6 +82,9 @@ console.log(obj2.address); // 'Pax Romana, Roma'
 
 ## Карта репозиториев How.Programming.Works
 Репозиторий https://github.com/HowProgrammingWorks/KnowledgeMap
+- Построение графа зависимостей
+- Поиск циклов
+- Построение последовательности лекций по темам
 
 ## Менеджер пакетов
 Репозиторий https://github.com/metarhia/namespace
